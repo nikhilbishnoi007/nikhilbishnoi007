@@ -60,4 +60,4 @@
 <p>📌 <i>More projects on my <a href="https://updatedportfolio-iota.vercel.app">portfolio</a> and <a href="https://github.com/nikhilbishnoi007">GitHub</a></i></p>
 
 <hr>
-<img class="footer-badge" src="https://komarev.com/ghpvc/?username=nikhilbishnoi007&icon=0&color=0">
+<!-- <img class="footer-badge" src="https://komarev.com/ghpvc/?username=nikhilbishnoi007&icon=0&color=0"> -->
