@@ -1,7 +1,8 @@
 <h1 align="center">💫 About Me:</h1>
 <p>Hi, I'm Nikhil 👋</p>
 <ul>
-  <li>💻 Full-stack developer — Node.js, TypeScript, MongoDB, PostgreSQL, React, Next.js</li>
+  <li>💻 Flutter & full-stack developer — Flutter, Dart, Node.js, TypeScript, MongoDB, PostgreSQL, React, Next.js</li>
+  <li>📱 Building cross-platform mobile apps with Flutter</li>
   <li>🛠️ Mainly backend-focused, comfortable across the whole stack</li>
   <li>🎨 Enjoy building clean, functional systems and smooth UI experiences</li>
   <li>🏆 Active in hackathons, always building something new on the side</li>
@@ -16,6 +17,12 @@
 </p>
 
 <h1 align="center">💻 Tech Stack:</h1>
+
+<h4 align="center">Mobile</h4>
+<p align="center">
+<img class="badge" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+<img class="badge" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+</p>
 
 <h4 align="center">Languages & Frontend</h4>
 <p align="center">
@@ -39,6 +46,7 @@
 <img class="badge" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img class="badge" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
 <h4 align="center">DevOps & Tools</h4>
@@ -52,6 +60,7 @@
 <h1 align="center">🚀 Featured Projects:</h1>
 <table>
   <tr><th>Project</th><th>Description</th><th>Stack</th></tr>
+  <tr><td><b><a href="https://github.com/nikhilbishnoi007/Utility-Apps">Utility-Apps</a></b></td><td>Multi-screen Flutter app with a Calculator and BMI Calculator</td><td>Flutter, Dart</td></tr>
   <tr><td><b><a href="https://github.com/nikhilbishnoi007">Lume</a></b></td><td>Social photo-sharing platform with feed, explore & auth</td><td>Next.js, TypeScript</td></tr>
   <tr><td><b><a href="https://github.com/nikhilbishnoi007">Inkwell</a></b></td><td>Diary/journaling app with secure JWT authentication</td><td>Next.js, Node.js, MongoDB</td></tr>
   <tr><td><b><a href="https://github.com/nikhilbishnoi007">Cyber Security Simulator</a></b></td><td>Interactive app teaching phishing & password awareness</td><td>React</td></tr>
